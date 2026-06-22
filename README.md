@@ -1,4 +1,4 @@
-<h1>Registering Azure and Creating a Resource</h1>
+<h1>How to create a VM in Microsoft Azure</h1>
 This process involves provisioning a scalable and secure virtual environment in Microsoft Azure to host applications, development workloads, or production services. Using the Azure Portal, Azure CLI, or PowerShell, a virtual machine (VM) can be deployed within minutes, tailored to meet specific performance, security, and networking requirements.<br />
 
 <h2>Environments and Technologies Used</h2>
