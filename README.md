@@ -1,5 +1,6 @@
 <h1>How to create a VM in Microsoft Azure</h1>
-This process involves provisioning a scalable and secure virtual environment in Microsoft Azure to host applications, development workloads, or production services. Using the Azure Portal, Azure CLI, or PowerShell, a virtual machine (VM) can be deployed within minutes, tailored to meet specific performance, security, and networking requirements.<br />
+An Azure virtual machine is a cloud-based computer that runs in Microsoft’s data centers. It can use Windows or Linux and lets you choose the amount of CPU, memory, storage, and networking it needs. You can connect to it remotely to practice IT skills, run applications, host websites, or test software.
+.<br />
 
 <h2>Environments and Technologies Used</h2>
 
